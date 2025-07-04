@@ -16,14 +16,14 @@ export default function HeroSection() {
 				<motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="text-center mb-8 md:mb-12">
 					<div className="space-y-3 md:space-y-4 mb-6 md:mb-8">
 						<h1 className="text-4xl md:text-7xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-500 via-purple-500 to-teal-500">
-							David Miller
+							Robson Vargas
 						</h1>
 						<h2 className="text-2xl md:text-4xl font-bold text-white">Full Stack Developer</h2>
 						<p className="text-lg md:text-xl text-gray-400 max-w-2xl mx-auto">
-							I craft end-to-end solutions with 8+ years of experience building scalable applications and leading development teams.
+							Software Engineer
 						</p>
 						<p className="text-base md:text-lg text-gray-500 max-w-2xl mx-auto">
-							Previously Senior Full Stack Developer at <span className="text-blue-400">Stripe</span> and Tech Lead at{' '}
+							Software Engineer Student <span className="text-blue-400">Graduation </span> {' '}
 							<span className="text-purple-400">Vercel</span>
 						</p>
 					</div>
