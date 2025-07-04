@@ -13,13 +13,12 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-	title: '[Your Name] - Full-Stack Developer',
+	title: 'Robson Vargas - Software Engineer',
 	description:
-		'Welcome to my portfolio! I am a passionate full-stack developer who bridges the gap between frontend and backend development. Specializing in creating complete web solutions, from beautiful user interfaces to robust server architectures.',
+		'Welcome to my portfolio! I am a Software Engineer with a passion for building end-to-end solutions that seamlessly connect front-end interfaces with back-end systems. I focus on creating scalable, maintainable, and performant applications that deliver real-world impact. ',
 	keywords: [
-		'Full-Stack Developer',
+		'Robson Vargas',
 		'Software Engineer',
-		'Frontend Development',
 		'Backend Development',
 		'React',
 		'Next.js',
@@ -30,23 +29,22 @@ export const metadata: Metadata = {
 		'Cloud Solutions',
 		'DevOps',
 		'System Architecture',
-		'Web Development',
-		'[Your Name]',
+		'Robson Vargas Portfolio',
 	],
-	authors: [{ name: '[Your Name]' }],
-	creator: '[Your Name]',
+	authors: [{ name: 'Robson Vargas' }],
+	creator: 'Robson Vargas',
 	openGraph: {
-		title: '[Your Name] - Full-Stack Developer Portfolio',
+		title: 'Robson Vargas - Software Engineer Portfolio',
 		description:
-			'Passionate full-stack developer creating complete web solutions. Explore my projects and technical expertise across the entire development stack.',
-		url: 'https://your-domain.com',
-		siteName: '[Your Name] - Portfolio',
+			'Passionate Software Engineer creating robust solutions. Explore my projects.',
+		url: 'https://robsonvargas.dev',
+		siteName: 'Robson Vargas - Portfolio',
 		images: [
 			{
 				url: '/og-image.jpg',
 				width: 1200,
 				height: 630,
-				alt: '[Your Name] - Full-Stack Developer Portfolio',
+				alt: 'Robson Vargas - Software Engineer Portfolio',
 			},
 		],
 		locale: 'en_US',
@@ -54,7 +52,7 @@ export const metadata: Metadata = {
 	},
 	twitter: {
 		card: 'summary_large_image',
-		title: '[Your Name] - Full-Stack Developer',
+		title: 'Robson Vargas - Software Engineer Portfolio',
 		description:
 			'Passionate full-stack developer creating complete web solutions. Explore my projects and technical expertise across the entire development stack.',
 		creator: '@yourusername',
